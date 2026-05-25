@@ -57,6 +57,6 @@ To protect intellectual property rights, full technical documentation, wiring di
 
 For academic inquiries, collaboration opportunities, or general questions regarding the upcoming publication schedule, please reach out to the project technical lead:
 
-* Technical Lead: Suyash Laur
-* Email: [Your Email Address]
+* Technical Lead: Om Prakash Munda
+* Email: hello@omprakash.me
 * University: KIIT University
